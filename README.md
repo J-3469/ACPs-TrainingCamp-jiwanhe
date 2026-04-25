@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# ACPs-TrainingCamp--
 ACPs训练营代码仓库
 =======
 # ACPs-TrainingCamp-冀婉禾
@@ -60,4 +58,3 @@ ACPs训练营代码仓库
 - 调度问题：如会议安排、任务调度等
 - 资源分配：如共享资源的使用安排
 - 时间管理：如个人时间规划
->>>>>>> 3e20aff (Initial commit)
